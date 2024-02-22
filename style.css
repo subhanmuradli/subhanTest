@@ -1,0 +1,229 @@
+body>header>div>div:first-child>a>span{
+    color: #9195F6;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 40px;
+}
+body>header>div>div:nth-child(2)>.contact>span{
+    color: #f593b9;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    left: 10px;
+}
+body>header>div>div:nth-child(2)>.about>span{
+    color: #A3C9AA;
+    font-size: 35px;
+    font-weight: bold;
+    position: relative;
+    left: 20px;
+}
+body>header>div>div:nth-child(3)>a>span{
+    color: #9195F6;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 40px;
+}
+body>header>div{
+    background-color: #FEECE2;
+    width: 100%;
+    height: 130px;
+    border: 2px solid #FFBE98;
+}
+a{
+    text-decoration: none;
+}
+
+body>main>div{
+    background-color: #f5eee6;
+    margin: 30px 0 0 0;
+    width: 100%;
+    height: 500px;
+}
+body>main>div:first-child>p{
+    color: #CAA6A6;
+    text-align: center;
+    font-size: 20px;
+    padding: 50px 0 0 0;
+    position: relative;
+    top: 60px;
+    left: 20px;
+}
+body>main>div>.lorem5{
+    background-color: #3E3232;
+    height: 20px;
+    width: 85%;
+    position: relative;
+    top: 120px;
+    left: 50px;
+    padding: 35px;
+    border: 2px solid #A87C7C;
+    border-radius: 5px;
+}
+body>main>div>div:nth-child(2)>span{
+    position: relative;
+    bottom: 20px;
+    color: #FF6866;
+    
+}
+body>main>div>div:nth-child(3)>span{
+    color: #fff;
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+body>main>div>div:nth-child(3){
+    height: 40px;
+    background-color: #D24545;
+    position: relative;
+    left: 52px;
+    top: 135px;
+    padding-bottom: 20px;
+    height: 80px;
+    border: 2px solid #E6BAA3;
+    border-radius: 5px;
+    width: 90%;
+
+}
+
+body>footer>div{
+    background-color: #3B3486;
+    width: 100%;
+    height: 130px;
+    position: relative;
+    top: 20px;
+}
+body>footer>div>div:first-child{
+    background-color: #BF3131;
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+}
+body>footer>div>div:first-child{
+    text-align: center;
+}
+body>footer>div>div:first-child>span{
+    position: relative;
+    top: 18px;
+}
+
+
+body>main>.picture{
+    background-color: #F5EEE6;
+    height: 300px;
+}
+body>main>.picture>div{
+    background-color: #304D30;
+    width: 660px;
+    height: 220px;
+    margin: auto;
+    position: relative;
+    top: 40px;
+}
+body>main>.picture>div>div:first-child>img{
+    width: 220px;
+    height: 180px;
+    position: relative;
+    float: left;
+    top: 18px;
+    left: 20px;
+    border: 2px solid #FB8B24;
+}
+body>main>.picture>div>div:nth-child(2)>img{
+    height: 150px;
+    position: relative;
+    float: left;
+    left: 30px;
+    top: 48px;
+    border: 2px solid #FB8B24;
+}
+body>main>.picture>div>div:last-child>img{
+    width: 220px;
+    height: 180px;
+    position: relative;
+    float: left;
+    top: 18px;
+    left: 40px;
+    border: 2px solid #FB8B24;
+}
+body>main>#contact{
+    background-color: #F5EEE6;
+    height: 650px;
+}
+
+body>main>#contact>div:first-child{
+    background-color: #FB8B24;
+    width: 450px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative;
+    top: 20px;
+    border-radius: 5px;
+}
+body>main>#contact>div>img{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+body>main>#contact>div:nth-child(2)>span{
+    position: relative;
+    bottom: 130px;
+    left: 290px;
+    color: white;
+}
+body>main>#contact>.lorem3:last-child{
+    background-color: red;
+    width: 60%;
+    height: 300px;
+    
+}
+body>main>#contact>.loremipsum{
+    background-color: #B2A59B;
+    height: 150px;
+    width: calc(100% - 150px);
+    position: relative;
+    left: 60px;
+    top: -80px;
+}
+body>main>#contact>.loremipsum>span{
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+
+body>main>.container{
+    background-color: #F5EEE6;
+    width: 100%;
+    height: 350px;
+}
+body>main>.container>div>span{
+    color: #CAA6AC;
+    position: relative;
+    top: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    left: 60px;
+}
+body>main>.container>h3{
+    position: relative;
+    top: 30px;
+    left: 60px;
+}
+body>main>.container>.container1{
+    background-color: #D24545;
+    border: 2px solid black;
+    width: 90%;
+    margin: -120px 10px;
+    height: 100px;
+}
+body>main>.container>.container1>span{
+    color: white;
+    position: relative;
+    left: 10px;
+    font-size: 20px;
+}
